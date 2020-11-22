@@ -1,0 +1,10 @@
+C:\Users\Braden\Desktop\WordAdder\AddWords\AddWords\obj\Debug\AddWords.csprojAssemblyReference.cache
+C:\Users\Braden\Desktop\WordAdder\AddWords\AddWords\obj\Debug\AddWords.FrmMain.resources
+C:\Users\Braden\Desktop\WordAdder\AddWords\AddWords\obj\Debug\AddWords.Properties.Resources.resources
+C:\Users\Braden\Desktop\WordAdder\AddWords\AddWords\obj\Debug\AddWords.csproj.GenerateResource.cache
+C:\Users\Braden\Desktop\WordAdder\AddWords\AddWords\obj\Debug\AddWords.csproj.CoreCompileInputs.cache
+C:\Users\Braden\Desktop\WordAdder\AddWords\AddWords\bin\Debug\AddWords.exe.config
+C:\Users\Braden\Desktop\WordAdder\AddWords\AddWords\bin\Debug\AddWords.exe
+C:\Users\Braden\Desktop\WordAdder\AddWords\AddWords\bin\Debug\AddWords.pdb
+C:\Users\Braden\Desktop\WordAdder\AddWords\AddWords\obj\Debug\AddWords.exe
+C:\Users\Braden\Desktop\WordAdder\AddWords\AddWords\obj\Debug\AddWords.pdb
