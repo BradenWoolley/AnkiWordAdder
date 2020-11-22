@@ -1,6 +1,6 @@
-# AnkiWordAdder
+#AnkiWordAdder
 ##AnkiWordAdder is a GUI app to make adding words to Anki decks easier.
-### It is made in C# and winforms.
+###It is made in C# and winforms.
 ###I made the app because I am learning Serbian and it takes forever to add my own custom sentences or specific words to a text file in the right formatting.
 ###The app first and foremost formats words and translations into Anki's basic formatting: word;translation
 ###I also needed to add buttons for special latin characters such as ***Ž*** and ***Š*** in upper and lower case so that I don't have to change my computer's keyboard.
