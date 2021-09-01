@@ -2,7 +2,7 @@
 This is a simple app to help speed-up importing words into Anki.
 ## Getting Started
 ### Installing
-* Download the .exe from this repository by clicking the code button.
+* Download the .exe from this repository by clicking Code->Download Zip.
 * Unzip the folder in the directory of your choice.
 * You may be prompted to trust this program, allow the program to run.
 ### Using the app
