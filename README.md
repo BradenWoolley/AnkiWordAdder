@@ -2,7 +2,7 @@
 This is a simple app to help speed-up importing words into Anki.
 ## Getting Started
 ### Installing
-* Download the .exe from this [page](https://github.com/BradenWoolley/AnkiWordAdder/blob/main/NoviReci.exe) or by clicking on Releases and downloading the zip
+* Download the .exe from this [page](https://github.com/BradenWoolley/AnkiWordAdder/blob/main/NoviReci.exe) or by clicking on [Releases](https://github.com/BradenWoolley/AnkiWordAdder/releases/tag/v1.0) and downloading the zip
 * Unzip the folder in the directory of your choice.
 * You may be prompted to trust this program, allow the program to run.
 ### Using the app
